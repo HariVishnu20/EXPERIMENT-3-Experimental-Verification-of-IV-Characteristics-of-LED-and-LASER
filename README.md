@@ -1,4 +1,4 @@
-[
+
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
 # Fiber Optic LED Characteristics and Photo Detector Response
 
@@ -62,4 +62,3 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ## ✅ RESULT
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
-](https://github.com/HariVishnu20/EXPERIMENT-2-Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss.git)
